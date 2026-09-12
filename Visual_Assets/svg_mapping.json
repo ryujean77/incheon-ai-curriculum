@@ -1,0 +1,78 @@
+{
+  "session3": [
+    {
+      "section_id": "3_1",
+      "aria_label": "3-1 데이터 처리 파이프라인 7단계 최적화",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_1.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_1.svg"
+    },
+    {
+      "section_id": "3_2",
+      "aria_label": "3-2 환경 세팅 및 맥락 최적화",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_2.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_2.svg"
+    },
+    {
+      "section_id": "3_3",
+      "aria_label": "3-3 CoT(Chain of Thought) 프롬프트 엔지니어링",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_3.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_3.svg"
+    },
+    {
+      "section_id": "3_4",
+      "aria_label": "3-4 Zero-shot / Few-shot 프롬프트 구조화",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_4.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_4.svg"
+    },
+    {
+      "section_id": "3_5",
+      "aria_label": "3-8 대화 데이터 연동 — 제미나이 대화를 Gemini Notebooks 소스로 만들기",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_5.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_5.svg"
+    },
+    {
+      "section_id": "3_6",
+      "aria_label": "3-9 양방향 연동 워크플로우 — 노트북 분석 결과를 제미나이로 되돌려 쓰기",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_3_6.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_3_6.svg"
+    }
+  ],
+  "session4": [
+    {
+      "section_id": "4_1",
+      "aria_label": "4-2 Google Docs 문서 자동 생성 봇",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_4_1.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_4_1.svg"
+    },
+    {
+      "section_id": "4_2",
+      "aria_label": "4-3 Google Calendar 연동 기한 알림 봇",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_4_2.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_4_2.svg"
+    },
+    {
+      "section_id": "4_3",
+      "aria_label": "4-4 보안 클라우드 코드 실행 (Secure Cloud Code Execution) 및 Excel/Sheets 데이터 심층 분석",
+      "svg_path": "C:\\Users\\ryuje\\ryujeanWorkSpace\\tmp\\incheon-ai-curriculum-public\\Visual_Assets\\diagram_4_3.svg",
+      "png_path": null,
+      "png_url": null,
+      "svg_url": "https://ryujean77.github.io/incheon-ai-curriculum/Visual_Assets/diagram_4_3.svg"
+    }
+  ]
+}

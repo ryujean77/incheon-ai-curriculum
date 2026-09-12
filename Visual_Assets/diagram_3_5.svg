@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1378 358" width="100%" role="img" aria-label="3-8 대화 데이터 연동 — 제미나이 대화를 Gemini Notebooks 소스로 만들기"><defs>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#FC00DC"/><stop offset="52%" stop-color="#731FFF"/>
+  <stop offset="100%" stop-color="#00FFD7"/></linearGradient>
+<linearGradient id="g_start" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#00FFD7"/><stop offset="100%" stop-color="#00B9A0"/></linearGradient>
+<linearGradient id="f_start" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00FFD7" stop-opacity="0.20"/><stop offset="100%" stop-color="#00B9A0" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_process" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#731FFF"/><stop offset="100%" stop-color="#4A0FB8"/></linearGradient>
+<linearGradient id="f_process" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#731FFF" stop-opacity="0.20"/><stop offset="100%" stop-color="#4A0FB8" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_decision" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FC00DC"/><stop offset="100%" stop-color="#A8009A"/></linearGradient>
+<linearGradient id="f_decision" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FC00DC" stop-opacity="0.20"/><stop offset="100%" stop-color="#A8009A" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_circle" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#00A8FF"/><stop offset="100%" stop-color="#0069B8"/></linearGradient>
+<linearGradient id="f_circle" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00A8FF" stop-opacity="0.20"/><stop offset="100%" stop-color="#0069B8" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_danger" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FF4D6D"/><stop offset="100%" stop-color="#B00030"/></linearGradient>
+<linearGradient id="f_danger" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF4D6D" stop-opacity="0.20"/><stop offset="100%" stop-color="#B00030" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_success" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3DDC84"/><stop offset="100%" stop-color="#1E9E58"/></linearGradient>
+<linearGradient id="f_success" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#3DDC84" stop-opacity="0.20"/><stop offset="100%" stop-color="#1E9E58" stop-opacity="0.07"/></linearGradient>
+<linearGradient id="g_end" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FC00DC"/><stop offset="100%" stop-color="#731FFF"/></linearGradient>
+<linearGradient id="f_end" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FC00DC" stop-opacity="0.20"/><stop offset="100%" stop-color="#731FFF" stop-opacity="0.07"/></linearGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity="0.55"/></filter>
+<marker id="ah" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M1 1 L11 6 L1 11 z" fill="#6E7488"/></marker>
+</defs><rect width="1378" height="358" rx="18" fill="#05060A"/><text x="34" y="42" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="17" font-weight="800" fill="url(#neon)">3-8 대화 데이터 연동 — 제미나이 대화를 Gemini Notebooks 소스로 만들기</text><rect x="34" y="52" width="72" height="3.5" rx="1.8" fill="url(#neon)"/><path d="M 262.8 107.0 C 351.5 107.0, 351.5 107.0, 440.2 107.0" fill="none" stroke="#6E7488" stroke-width="2" marker-end="url(#ah)" opacity="0.9"/>
+<path d="M 600.2 107.0 C 671.3 107.0, 671.3 107.0, 742.3 107.0" fill="none" stroke="#6E7488" stroke-width="2" marker-end="url(#ah)" opacity="0.9"/>
+<path d="M 973.2 107.0 C 1022.9 107.0, 1022.9 107.0, 1072.5 107.0" fill="none" stroke="#6E7488" stroke-width="2" marker-end="url(#ah)" opacity="0.9"/>
+<path d="M 1195.2 144.0 C 689.0 144.0, 689.0 224.0, 182.8 224.0" fill="none" stroke="#6E7488" stroke-width="2" marker-end="url(#ah)" opacity="0.9"/>
+<rect x="102.8" y="70.0" width="160.0" height="74.0" rx="14" fill="rgba(255,255,255,0.055)" stroke="rgba(255,255,255,0.20)" stroke-width="1.2" filter="url(#soft)"/>
+<rect x="102.8" y="70.0" width="160.0" height="74.0" rx="14" fill="url(#f_start)" stroke="url(#g_start)" stroke-width="2"/>
+<rect x="102.8" y="80.0" width="4.5" height="54.0" rx="2.2" fill="url(#g_start)" filter="url(#glow)"/>
+<text x="182.8" y="95.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">제미나이 채팅</text>
+<text x="182.8" y="119.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="500" fill="#AEB4C2">아이디어 발산</text>
+<rect x="440.2" y="70.0" width="160.0" height="74.0" rx="14" fill="rgba(255,255,255,0.055)" stroke="rgba(255,255,255,0.20)" stroke-width="1.2" filter="url(#soft)"/>
+<rect x="440.2" y="70.0" width="160.0" height="74.0" rx="14" fill="url(#f_process)" stroke="url(#g_process)" stroke-width="2"/>
+<rect x="440.2" y="80.0" width="4.5" height="54.0" rx="2.2" fill="url(#g_process)" filter="url(#glow)"/>
+<text x="520.2" y="95.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">공유 · 내보내기</text>
+<text x="520.2" y="119.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="500" fill="#AEB4C2">Google 문서로</text>
+<rect x="742.3" y="78.0" width="230.9" height="58.0" rx="14" fill="rgba(255,255,255,0.055)" stroke="rgba(255,255,255,0.20)" stroke-width="1.2" filter="url(#soft)"/>
+<rect x="742.3" y="78.0" width="230.9" height="58.0" rx="14" fill="url(#f_process)" stroke="url(#g_process)" stroke-width="2"/>
+<rect x="742.3" y="88.0" width="4.5" height="38.0" rx="2.2" fill="url(#g_process)" filter="url(#glow)"/>
+<text x="857.8" y="107.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">Google Drive에 문서 저장</text>
+<rect x="1072.5" y="70.0" width="245.5" height="74.0" rx="14" fill="rgba(255,255,255,0.055)" stroke="rgba(255,255,255,0.20)" stroke-width="1.2" filter="url(#soft)"/>
+<rect x="1072.5" y="70.0" width="245.5" height="74.0" rx="14" fill="url(#f_process)" stroke="url(#g_process)" stroke-width="2"/>
+<rect x="1072.5" y="80.0" width="4.5" height="54.0" rx="2.2" fill="url(#g_process)" filter="url(#glow)"/>
+<text x="1195.2" y="95.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">Gemini Notebooks</text>
+<text x="1195.2" y="119.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="500" fill="#AEB4C2">소스 추가 → Drive에서 선택</text>
+<rect x="79.7" y="224.0" width="206.1" height="74.0" rx="14" fill="rgba(255,255,255,0.055)" stroke="rgba(255,255,255,0.20)" stroke-width="1.2" filter="url(#soft)"/>
+<rect x="79.7" y="224.0" width="206.1" height="74.0" rx="14" fill="url(#f_end)" stroke="url(#g_end)" stroke-width="2"/>
+<rect x="79.7" y="234.0" width="4.5" height="54.0" rx="2.2" fill="url(#g_end)" filter="url(#glow)"/>
+<text x="182.8" y="249.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="700" fill="#FFFFFF">인용 근거가 붙은</text>
+<text x="182.8" y="273.0" text-anchor="middle" dominant-baseline="middle" font-family="'Pretendard','Pretendard Variable',-apple-system,'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Noto Sans CJK KR',sans-serif" font-size="15.5" font-weight="500" fill="#AEB4C2">질의응답 · 산출물 생성</text></svg>
